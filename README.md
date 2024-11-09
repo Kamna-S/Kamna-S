@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I am Kamna 👋<br>📍 Location: Khopoli, Maharashtra<br>📬 Contact: kamnasingh1101@gmail.com<br>🔗 LinkedIn:[linkedin.com/in/kamnasingh1101] (linkedin.com/in/kamnasingh1101)<br>💻 GitHub: github.com/Kamna-S/<br>🌐 Portfolio: [kamnasingh-portfolio-link.com
+Hi there, I am Kamna 👋<br>📍 Location: Khopoli, Maharashtra<br>📬 Contact: kamnasingh1101@gmail.com<br>🔗 LinkedIn: https://www.linkedin.com/in/kamnasingh1101/<br>💻 GitHub: github.com/Kamna-S/<br>🌐 Portfolio: [kamnasingh-portfolio-link.com
 ](https://kamnasingh.netlify.app)
 ### 🎓 Education
 - **Master’s in AI & Data Science** – D Y Patil International University, Pune (2022-2024)  
